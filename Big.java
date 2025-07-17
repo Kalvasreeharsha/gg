@@ -10,7 +10,7 @@ class Big{
 		}
 		else if(b>a && b>c){
                         System.out.println(b);}
-		else(c>b && c>b){
+		else{
                         System.out.println(c);
 		}
 	}
